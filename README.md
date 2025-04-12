@@ -42,19 +42,19 @@ It’s everything college events need, simplified.
 <div style="display: flex; flex-direction: row;">
   <img src="Screenshots/login.png" />
    &nbsp;
-  <img src="Screenshots/home.png" width="150" />
+  <img src="Screenshots/home.png"/>
    &nbsp;
-  <img src="Screenshots/trending events.png"  width="150" />
+  <img src="Screenshots/trending events.png"/>
    &nbsp;
-  <img src="Screenshots/Browse Category and Genre.png"  width="150" />
+  <img src="Screenshots/Browse Category and Genre.png" />
    &nbsp;
-  <img src="Screenshots/all events.png"  width="150" />
+  <img src="Screenshots/all events.png"/>
    &nbsp;
-  <img src="Screenshots/Add new event.png"  width="150" />
+  <img src="Screenshots/Add new event.png"/>
    &nbsp;
-  <img src="Screenshots/profile - drawer.png"  width="150" />
+  <img src="Screenshots/profile - drawer.png"/>
    &nbsp;
-   <img src="Screenshots/profile.png"  width="150" />
+   <img src="Screenshots/profile.png"/>
 </div>
 </p>
 
