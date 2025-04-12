@@ -40,27 +40,21 @@ It’s everything college events need, simplified.
 
 <p style="margin-bottom: 40px;">
 <div style="display: flex; flex-direction: row;">
-  <img src="App ScreenShots/Home.png" width="150" />
+  <img src="Screenshots/login.png" width="150" />
    &nbsp;
-  <img src="App ScreenShots/Navigation.png" width="150" />
+  <img src="Screenshots/home.png" width="150" />
    &nbsp;
-  <img src="App ScreenShots/blog1.png"  width="150" />
+  <img src="Screenshots/trending events.png"  width="150" />
    &nbsp;
-  <img src="App ScreenShots/blog2.png"  width="150" />
+  <img src="Screenshots/Browse Category and Genre.png"  width="150" />
    &nbsp;
-  <img src="App ScreenShots/crop1.png"  width="150" />
+  <img src="Screenshots/all events.png"  width="150" />
    &nbsp;
-  <img src="App ScreenShots/crop2.png"  width="150" />
+  <img src="Screenshots/Add new event.png"  width="150" />
    &nbsp;
-  <img src="App ScreenShots/label1.png"  width="150" />
+  <img src="Screenshots/profile - drawer.png"  width="150" />
    &nbsp;
-   <img src="App ScreenShots/label2.png"  width="150" />
-   &nbsp;
-  <img src="App ScreenShots/label3.png"  width="150" />
-   &nbsp;
-  <img src="App ScreenShots/weather1.png"  width="150" />
-    &nbsp;
-  <img src="App ScreenShots/weather2.png"  width="150" />
+   <img src="Screenshots/profile.png"  width="150" />
 </div>
 </p>
 
