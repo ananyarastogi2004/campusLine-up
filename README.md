@@ -40,7 +40,7 @@ It’s everything college events need, simplified.
 
 <p style="margin-bottom: 40px;">
 <div style="display: flex; flex-direction: row;">
-  <img src="Screenshots/login.png" width="150" />
+  <img src="Screenshots/login.png" />
    &nbsp;
   <img src="Screenshots/home.png" width="150" />
    &nbsp;
