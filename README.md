@@ -32,6 +32,6 @@ It’s everything college events need, simplified.
 **Tech Stack**
 
 1. **MERN Stack** - MongoDB, Express.js, React.js, and Node.js form our full-stack foundation—handling frontend, backend, and database with high performance and scalability.
-2. **Firebase(fcm) **- Used for real-time push notifications to keep users instantly informed and engaged.
+2. **Firebase(FCM)** - Used for real-time push notifications to keep users instantly informed and engaged.
 3. **Python** - Powers web scraping to fetch live data and supports ML models for recommendations and intelligent features.
 4. **Machine Learning** - Enables smart predictions and personalized user experiences using behavior-based learning.
