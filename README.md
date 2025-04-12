@@ -11,21 +11,21 @@ It’s everything college events need, simplified.
 
 **Key  Features**
 
-1. Smart Event Sorting
+1. **Smart Event Sorting**-
     View inter-college & your college’s events separately.
     Events filtered by category, genre, interests and buzzwords.
     Solves the problem of finding the right events faster.
 
-2. Dual Posting Options: Automated & Manual
+2. **Dual Posting Options: Automated & Manual**-
     Auto-convert verified Instagram posts into listed events automatically.
     Prefer control? Use our quick form to manually post events with ease.
     Solves the problem of curating and forwarding multiple messages and posts. 
 
-3. Personalized Event Recommendations
+3. **Personalized Event Recommendations**-
     ML-powered event suggestions based on your preferences, saved, and liked events.
     Solves the problem of discovering relevant events amidst countless options.
 
-4. Smart Reminders and Notification System 
+4. **Smart Reminders and Notification System**- 
     Get timely, non-spammy, automated push notifications and email reminders for the events you like or save.
     Solves the problem of missing registration deadlines and opportunities.
 
