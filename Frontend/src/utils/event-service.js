@@ -1,4 +1,3 @@
-import { events_api } from './APIs';
 
 export async function fetchEvents(category, genre) {
   try {
