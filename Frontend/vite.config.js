@@ -10,9 +10,13 @@ export default defineConfig({
   plugins: [react()],
   server: {
     proxy: {
-      '/events': 'http://localhost:4000',
-      '/api': 'http://localhost:4000',
+      '/events': 'https://campusline-up-backend.onrender.com',
+      '/api': 'https://campusline-up-backend.onrender.com',
     }
+    // proxy: {
+    //   '/events': 'http://localhost:4000',
+    //   '/api': 'http://localhost:4000',
+    // }
   }
   
 })

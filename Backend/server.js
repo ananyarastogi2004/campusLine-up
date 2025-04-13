@@ -15,6 +15,7 @@ const allowedOrigins = [
   "http://localhost:4000",
   "http://localhost:5173", // Vite default
   "https://6b36-2405-201-4024-6d-30b0-9647-da7d-e160.ngrok-free.app",
+  "https://campus-line-up.vercel.app/"
 ];
 
 app.use(cors({
