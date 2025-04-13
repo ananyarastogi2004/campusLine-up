@@ -8,7 +8,6 @@ export default defineConfig({
   },
   
   plugins: [react()],
-  base: 'https://ananyarastogi2004.github.io/campusLine-up/',
   server: {
     proxy: {
       '/events': 'http://localhost:4000',

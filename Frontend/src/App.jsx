@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import { Home } from "./pages/home";
 import { Profile } from "./pages/profile";
 import { AddEvents } from "./pages/addEventPage";
@@ -14,7 +14,7 @@ import { AllEvents } from "./pages/all-events";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <Router>
       <Routes>
         {/* Default route */}
         <Route path="/" element={<AuthPage />} />
@@ -32,7 +32,7 @@ const App = () => {
         <Route path="/college-events" element={<CollegeEvents />} />
         <Route path="/popular-events" element={<PopularEvents />} />
       </Routes>
-    </BrowserRouter>
+    </Router>
   );
 };
 export default App;
